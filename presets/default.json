@@ -1,0 +1,70 @@
+{
+    "default_model": "realvisxlV50_v50Bakedvae.safetensors",
+    "default_refiner": "None",
+    "default_refiner_switch": 0.5,
+    "default_loras": [
+        [
+            true,
+            "nudify_xl_lite.safetensors",
+            1.0
+        ],
+        [
+            true,
+            "None",
+            1.0
+        ],
+        [
+            true,
+            "None",
+            1.0
+        ],
+        [
+            true,
+            "None",
+            1.0
+        ],
+        [
+            true,
+            "None",
+            1.0
+        ],
+        [
+            true,
+            "None",
+            1.0
+        ]
+    ],
+    "default_cfg_scale": 10,
+    "default_sample_sharpness": 2.0,
+    "default_sampler": "dpmpp_2m_sde_gpu",
+    "default_scheduler": "karras",
+    "default_performance": "Speed",
+    "default_prompt": "",
+    "default_prompt_negative": "",
+    "default_styles": [
+    ],
+    "default_aspect_ratio": "896*1152",
+    "default_overwrite_step": -1,
+    "checkpoint_downloads": {
+        "realvisxlV50_v50Bakedvae.safetensors": "https://civitai.com/api/download/models/789646?type=Model&format=SafeTensor&size=full&fp=fp32",
+        "pornmasterPro_v9VAE.safetensors": "https://civitai.com/api/download/models/704312?token=563fbbf1de6e24e1db859b619508375d",
+        "epicrealism_naturalSinRC1VAE.safetensors":"https://civitai.com/api/download/models/143906?token=563fbbf1de6e24e1db859b619508375d"
+    },
+    "embeddings_downloads": {},
+    "lora_downloads": {
+        "nudify_xl_lite.safetensors": "https://civitai.com/api/download/models/177674?token=563fbbf1de6e24e1db859b619508375d",
+        "hand 4.safetensors": "https://civitai.com/api/download/models/471794?token=563fbbf1de6e24e1db859b619508375d",
+        "black_see-through_bodysuit_SDXL.safetensors": "https://civitai.com/api/download/models/578868?token=563fbbf1de6e24e1db859b619508375d",
+        "add-detail-xl.safetensors": "https://civitai.com/api/download/models/135867?token=563fbbf1de6e24e1db859b619508375d"
+    },
+    "vae_downloads": {
+        
+    },
+    "previous_default_models": [
+        "juggernautXL_version8Rundiffusion.safetensors",
+        "juggernautXL_version7Rundiffusion.safetensors",
+        "juggernautXL_v7Rundiffusion.safetensors",
+        "juggernautXL_version6Rundiffusion.safetensors",
+        "juggernautXL_v6Rundiffusion.safetensors"
+    ]
+}
