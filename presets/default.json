@@ -47,15 +47,15 @@
     "default_overwrite_step": -1,
     "checkpoint_downloads": {
         "realvisxlV50_v50Bakedvae.safetensors": "https://civitai.com/api/download/models/789646?type=Model&format=SafeTensor&size=full&fp=fp32",
-        "pornmasterPro_v9VAE.safetensors": "https://civitai.com/api/download/models/704312?token=563fbbf1de6e24e1db859b619508375d",
-        "epicrealism_naturalSinRC1VAE.safetensors":"https://civitai.com/api/download/models/143906?token=563fbbf1de6e24e1db859b619508375d"
+        "juggernautXL_juggXIByRundiffusion.safetensors": "https://civitai.com/api/download/models/782002?token=563fbbf1de6e24e1db859b619508375d"
     },
     "embeddings_downloads": {},
     "lora_downloads": {
         "nudify_xl_lite.safetensors": "https://civitai.com/api/download/models/177674?token=563fbbf1de6e24e1db859b619508375d",
         "hand 4.safetensors": "https://civitai.com/api/download/models/471794?token=563fbbf1de6e24e1db859b619508375d",
         "black_see-through_bodysuit_SDXL.safetensors": "https://civitai.com/api/download/models/578868?token=563fbbf1de6e24e1db859b619508375d",
-        "add-detail-xl.safetensors": "https://civitai.com/api/download/models/135867?token=563fbbf1de6e24e1db859b619508375d"
+        "add-detail-xl.safetensors": "https://civitai.com/api/download/models/135867?token=563fbbf1de6e24e1db859b619508375d",
+        "Samantha_Gimenez-000001.safetensors": "https://download1511.mediafire.com/eecdwtzpy7tgnAlRpYPeX5DzgYsxifs-yOp8d4YEXxhXGQiVxvlq11a_Fl_7YTjkGkRiKPeFOWirKVqJBKNREaPb49NHQd46Rq9uZlD9qJfxEb381a6M_g1_CSUMU_lKf8MuEA4JQXIzmx6fAPTzMmfJOaDWGTmwI2jWHQ36EzxceQ/lris7ikcxbf8xd8/Samantha_Gimenez-000001.safetensors"
     },
     "vae_downloads": {
         
