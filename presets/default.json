@@ -5,7 +5,7 @@
     "default_loras": [
         [
             true,
-            "Samantha_Gimenez-000001.safetensors",
+            "Samantha.safetensors",
             1.2
         ],
         [
