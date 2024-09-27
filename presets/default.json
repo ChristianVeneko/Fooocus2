@@ -48,18 +48,22 @@
     "checkpoint_downloads": {
         "realvisxlV50_v50Bakedvae.safetensors": "https://civitai.com/api/download/models/789646?type=Model&format=SafeTensor&size=full&fp=fp32",
         "juggernautXL_juggXIByRundiffusion.safetensors": "https://civitai.com/api/download/models/782002?token=563fbbf1de6e24e1db859b619508375d",
-        "analogMadness_v60.safetensors": "https://civitai.com/api/download/models/160495?token=563fbbf1de6e24e1db859b619508375d"
+        "analogMadness_v60.safetensors": "https://civitai.com/api/download/models/160495?token=563fbbf1de6e24e1db859b619508375d",
+        "dreamshaperXL_alpha2Xl10.safetensors": "https://civitai.com/api/download/models/126688?token=563fbbf1de6e24e1db859b619508375d"
     },
-    "embeddings_downloads": {},
+    "embeddings_downloads": {
+        "ng_deepnegative_v1_75t.pt": "https://civitai.com/api/download/models/5637?type=Model&format=PickleTensor&size=full&fp=fp16"
+
+    },
     "lora_downloads": {
         "nudify_xl_lite.safetensors": "https://civitai.com/api/download/models/177674?token=563fbbf1de6e24e1db859b619508375d",
         "hand 4.safetensors": "https://civitai.com/api/download/models/471794?token=563fbbf1de6e24e1db859b619508375d",
         "black_see-through_bodysuit_SDXL.safetensors": "https://civitai.com/api/download/models/578868?token=563fbbf1de6e24e1db859b619508375d",
         "add-detail-xl.safetensors": "https://civitai.com/api/download/models/135867?token=563fbbf1de6e24e1db859b619508375d",
-        "Samantha_Gimenez-000001.safetensors": "https://download1511.mediafire.com/v4yuw7gjo01gpPeyJBjexVEnusj1qDrPbVW1oycerp6-yOfYSw4zY3rAJQ2jiSxskyzzAqCt9rGjt2BGfydK1BKhVAueowBC-TRa69BGkX8qF-R-kmOJaiM1GKGfipSLXJ8MJce1CsCWJLmh5Xnh87VJ0BzH5R4MwcEqIWjZw06OrA/lris7ikcxbf8xd8/Samantha_Gimenez-000001.safetensors",
+        "Samantha_Gimenez-000001.safetensors": "https://download1511.mediafire.com/np7i4osu9pzgfCRtgtah8BGSXhI22AOyew2Z5t-NeEYUfO0TCP0dT1gZV-ZZ5k2Nm1yoNDqoWCEAfs_akXeT9HWKIK9rslCsW-HE-2KY6PG5hVTJkyJslrQTDfcHtyWbX9r4lGZKB-cR7SQT09tllcHG1Pfs92awb0tml1CBag6-Yw/lris7ikcxbf8xd8/Samantha_Gimenez-000001.safetensors",
         "nsfw-xl-2.1.safetensors": "https://civitai.com/api/download/models/341068?token=563fbbf1de6e24e1db859b619508375d",
         "Samantha_Gimenez-000008.safetensors": "https://civitai.com/api/download/models/873745?type=Model&format=SafeTensor",
-        "Samantha.safetensors": "https://download1322.mediafire.com/rxfo2x4bqfzg075QhTTlh0K8n-_i7BpeBN0_A1NbhqNg8Ur_H0Rsa6LKnLw6_ySxb0IzJS03flnoUy0JybavGuSyHfT2Nr6zrNviN6SR6IMZUab1QNF_U2gwvR3JlmmVmfCKkyGk1tZizdPexZOCfwir9t5OJ90jyomzUkIP7y9WgQ/pgmmifmngwvhxje/Samantha.safetensors"
+        "Samantha.safetensors": "https://download1322.mediafire.com/m8x4b7fgz5sg38YYwuZ4ZuFKFtebS8-_5hK3ZQKOpT1vQbt7-wbZw7PTAAWbra5ZrlLmwng78GdJVzuB0aI4Yc4wbFd-k3lw0exup7FrqtqfcCW09cc2LFy9zUjBsAgXX9ghjNh_JO-CbP9brjGE3naCvoJdyPAOEMaRjunyQ2DEwQ/pgmmifmngwvhxje/Samantha.safetensors"
     },
     "vae_downloads": {
         
